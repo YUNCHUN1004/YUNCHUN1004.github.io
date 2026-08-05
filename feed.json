@@ -1,0 +1,27 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "yun",
+    "description": "",
+    "home_page_url": "https://YUNCHUN1004.github.io",
+    "feed_url": "https://YUNCHUN1004.github.io/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "yunchun"
+    },
+    "items": [
+        {
+            "id": "https://YUNCHUN1004.github.io/test.html",
+            "url": "https://YUNCHUN1004.github.io/test.html",
+            "title": "test",
+            "summary": "teeeeeeeeeeeeeeeest",
+            "content_html": "<p>teeeeeeeeeeeeeeeest</p>",
+            "author": {
+                "name": "yunchun"
+            },
+            "tags": [
+            ],
+            "date_published": "2026-08-05T20:28:08+08:00",
+            "date_modified": "2026-08-05T20:28:08+08:00"
+        }
+    ]
+}
