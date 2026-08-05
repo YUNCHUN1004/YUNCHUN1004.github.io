@@ -1,6 +1,6 @@
 {
     "version": "https://jsonfeed.org/version/1",
-    "title": "yun",
+    "title": "LIN YUN CHUN",
     "description": "",
     "home_page_url": "https://YUNCHUN1004.github.io",
     "feed_url": "https://YUNCHUN1004.github.io/feed.json",
@@ -10,32 +10,141 @@
     },
     "items": [
         {
+            "id": "https://YUNCHUN1004.github.io/yan-tao-hui.html",
+            "url": "https://YUNCHUN1004.github.io/yan-tao-hui.html",
+            "title": "研討會",
+            "author": {
+                "name": "yunchun"
+            },
+            "tags": [
+                   "實作經驗"
+            ],
+            "date_published": "2026-08-05T23:08:06+08:00",
+            "date_modified": "2026-08-05T23:08:06+08:00"
+        },
+        {
+            "id": "https://YUNCHUN1004.github.io/xin-zhu-xmei-zhu-hei-ke-song.html",
+            "url": "https://YUNCHUN1004.github.io/xin-zhu-xmei-zhu-hei-ke-song.html",
+            "title": "新竹X梅竹黑客松 ",
+            "summary": "行銷部",
+            "content_html": "<p>行銷部</p>",
+            "author": {
+                "name": "yunchun"
+            },
+            "tags": [
+                   "專案",
+                   "實作經驗"
+            ],
+            "date_published": "2026-08-05T23:07:28+08:00",
+            "date_modified": "2026-08-05T23:07:28+08:00"
+        },
+        {
+            "id": "https://YUNCHUN1004.github.io/wei-zao.html",
+            "url": "https://YUNCHUN1004.github.io/wei-zao.html",
+            "title": "「微噪」",
+            "summary": "系展展覽部長壓",
+            "content_html": "<p>系展展覽部長壓</p>",
+            "author": {
+                "name": "yunchun"
+            },
+            "tags": [
+                   "專案",
+                   "實作經驗"
+            ],
+            "date_published": "2026-08-05T23:07:08+08:00",
+            "date_modified": "2026-08-05T23:07:08+08:00"
+        },
+        {
+            "id": "https://YUNCHUN1004.github.io/eros-in-errors.html",
+            "url": "https://YUNCHUN1004.github.io/eros-in-errors.html",
+            "title": "Eros In Errors",
+            "summary": "VR ",
+            "content_html": "<p>VR </p>",
+            "author": {
+                "name": "yunchun"
+            },
+            "tags": [
+                   "作品"
+            ],
+            "date_published": "2026-08-05T23:06:34+08:00",
+            "date_modified": "2026-08-05T23:06:34+08:00"
+        },
+        {
+            "id": "https://YUNCHUN1004.github.io/overloaded.html",
+            "url": "https://YUNCHUN1004.github.io/overloaded.html",
+            "title": "overloaded",
+            "summary": "CLAB的作品",
+            "content_html": "<p>CLAB的作品</p>",
+            "author": {
+                "name": "yunchun"
+            },
+            "tags": [
+                   "實作經驗",
+                   "作品"
+            ],
+            "date_published": "2026-08-05T23:05:51+08:00",
+            "date_modified": "2026-08-05T23:05:51+08:00"
+        },
+        {
+            "id": "https://YUNCHUN1004.github.io/tun-qu-yi-wen-zhong-xin-gong-zuo-fang.html",
+            "url": "https://YUNCHUN1004.github.io/tun-qu-yi-wen-zhong-xin-gong-zuo-fang.html",
+            "title": " 屯區藝文中心工作坊",
+            "author": {
+                "name": "yunchun"
+            },
+            "tags": [
+                   "實作經驗"
+            ],
+            "date_published": "2026-08-05T23:04:58+08:00",
+            "date_modified": "2026-08-05T23:04:58+08:00"
+        },
+        {
+            "id": "https://YUNCHUN1004.github.io/bi-zhan.html",
+            "url": "https://YUNCHUN1004.github.io/bi-zhan.html",
+            "title": "畢展",
+            "summary": "畢展的實作經驗與作品",
+            "content_html": "<p>畢展的實作經驗與作品</p>",
+            "author": {
+                "name": "yunchun"
+            },
+            "tags": [
+                   "專案",
+                   "作品"
+            ],
+            "date_published": "2026-08-05T23:04:01+08:00",
+            "date_modified": "2026-08-05T23:04:01+08:00"
+        },
+        {
             "id": "https://YUNCHUN1004.github.io/xin-tie-wen.html",
             "url": "https://YUNCHUN1004.github.io/xin-tie-wen.html",
-            "title": "新貼文",
+            "title": "月津港",
             "summary": "你好!",
             "content_html": "<p>你好!</p>",
             "author": {
                 "name": "yunchun"
             },
             "tags": [
+                   "專案",
+                   "作品"
             ],
             "date_published": "2026-08-05T21:39:23+08:00",
-            "date_modified": "2026-08-05T21:39:23+08:00"
+            "date_modified": "2026-08-05T22:48:24+08:00"
         },
         {
             "id": "https://YUNCHUN1004.github.io/test.html",
             "url": "https://YUNCHUN1004.github.io/test.html",
-            "title": "test",
+            "title": "林茲",
             "summary": "teeeeeeeeeeeeeeeest",
             "content_html": "<p>teeeeeeeeeeeeeeeest</p>",
             "author": {
                 "name": "yunchun"
             },
             "tags": [
+                   "專案",
+                   "作品"
             ],
             "date_published": "2026-08-05T20:28:08+08:00",
-            "date_modified": "2026-08-05T20:28:08+08:00"
+            "date_modified": "2026-08-05T22:48:54+08:00"
         }
     ]
 }
