@@ -86,6 +86,8 @@
             "id": "https://YUNCHUN1004.github.io/tun-qu-yi-wen-zhong-xin-gong-zuo-fang.html",
             "url": "https://YUNCHUN1004.github.io/tun-qu-yi-wen-zhong-xin-gong-zuo-fang.html",
             "title": " 屯區藝文中心工作坊",
+            "summary": "hi",
+            "content_html": "<p>hi</p>",
             "author": {
                 "name": "yunchun"
             },
@@ -93,7 +95,7 @@
                    "跨域實踐"
             ],
             "date_published": "2026-08-05T23:04:58+08:00",
-            "date_modified": "2026-08-07T00:01:50+08:00"
+            "date_modified": "2026-08-07T14:00:31+08:00"
         },
         {
             "id": "https://YUNCHUN1004.github.io/bi-zhan.html",

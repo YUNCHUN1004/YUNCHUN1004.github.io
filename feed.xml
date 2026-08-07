@@ -3,7 +3,7 @@
     <title>LIN YUN CHUN</title>
     <link href="https://YUNCHUN1004.github.io/feed.xml" rel="self" />
     <link href="https://YUNCHUN1004.github.io" />
-    <updated>2026-08-07T00:42:56+08:00</updated>
+    <updated>2026-08-07T14:00:31+08:00</updated>
     <author>
         <name>yunchun</name>
     </author>
@@ -116,8 +116,16 @@
             <category term="跨域實踐"/>
 
         <updated>2026-08-05T23:04:58+08:00</updated>
-            <summary></summary>
-        <content></content>
+            <summary type="html">
+                <![CDATA[
+                    hi
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>hi</p>
+            ]]>
+        </content>
     </entry>
     <entry>
         <title>畢展</title>
