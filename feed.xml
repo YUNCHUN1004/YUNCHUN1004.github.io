@@ -3,7 +3,7 @@
     <title>LIN YUN CHUN</title>
     <link href="https://YUNCHUN1004.github.io/feed.xml" rel="self" />
     <link href="https://YUNCHUN1004.github.io" />
-    <updated>2026-08-07T14:00:31+08:00</updated>
+    <updated>2026-08-07T18:17:48+08:00</updated>
     <author>
         <name>yunchun</name>
     </author>
@@ -16,6 +16,7 @@
         </author>
         <link href="https://YUNCHUN1004.github.io/yan-tao-hui.html"/>
         <id>https://YUNCHUN1004.github.io/yan-tao-hui.html</id>
+        <media:content url="https://YUNCHUN1004.github.io/media/posts/12/IMG_2916.jpg" medium="image" />
             <category term="跨域實踐"/>
 
         <updated>2026-08-05T23:08:06+08:00</updated>
@@ -29,16 +30,19 @@
         </author>
         <link href="https://YUNCHUN1004.github.io/xin-zhu-xmei-zhu-hei-ke-song.html"/>
         <id>https://YUNCHUN1004.github.io/xin-zhu-xmei-zhu-hei-ke-song.html</id>
+        <media:content url="https://YUNCHUN1004.github.io/media/posts/11/IMG_4559.jpg" medium="image" />
             <category term="跨域實踐"/>
 
         <updated>2026-08-05T23:07:28+08:00</updated>
             <summary type="html">
                 <![CDATA[
+                        <img src="https://YUNCHUN1004.github.io/media/posts/11/IMG_4559.jpg" alt="" />
                     行銷部
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
+                    <p><img src="https://YUNCHUN1004.github.io/media/posts/11/IMG_4559.jpg" class="type:primaryImage" alt="" /></p>
                 <p>行銷部</p>
             ]]>
         </content>
@@ -50,16 +54,19 @@
         </author>
         <link href="https://YUNCHUN1004.github.io/wei-zao.html"/>
         <id>https://YUNCHUN1004.github.io/wei-zao.html</id>
+        <media:content url="https://YUNCHUN1004.github.io/media/posts/10/_DSC9604-2.jpg" medium="image" />
             <category term="企劃/展覽執行"/>
 
         <updated>2026-08-05T23:07:08+08:00</updated>
             <summary type="html">
                 <![CDATA[
+                        <img src="https://YUNCHUN1004.github.io/media/posts/10/_DSC9604-2.jpg" alt="" />
                     系展展覽部長壓
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
+                    <p><img src="https://YUNCHUN1004.github.io/media/posts/10/_DSC9604-2.jpg" class="type:primaryImage" alt="" /></p>
                 <p>系展展覽部長壓</p>
             ]]>
         </content>
@@ -71,16 +78,19 @@
         </author>
         <link href="https://YUNCHUN1004.github.io/eros-in-errors.html"/>
         <id>https://YUNCHUN1004.github.io/eros-in-errors.html</id>
+        <media:content url="https://YUNCHUN1004.github.io/media/posts/9/Ying-Mu-Xie-Qu-Hua-Mian-2024-11-25-211136.png" medium="image" />
             <category term="跨域實踐"/>
 
         <updated>2026-08-05T23:06:34+08:00</updated>
             <summary type="html">
                 <![CDATA[
+                        <img src="https://YUNCHUN1004.github.io/media/posts/9/Ying-Mu-Xie-Qu-Hua-Mian-2024-11-25-211136.png" alt="" />
                     VR 
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
+                    <p><img src="https://YUNCHUN1004.github.io/media/posts/9/Ying-Mu-Xie-Qu-Hua-Mian-2024-11-25-211136.png" class="type:primaryImage" alt="" /></p>
                 <p>VR </p>
             ]]>
         </content>
@@ -92,16 +102,19 @@
         </author>
         <link href="https://YUNCHUN1004.github.io/overloaded.html"/>
         <id>https://YUNCHUN1004.github.io/overloaded.html</id>
+        <media:content url="https://YUNCHUN1004.github.io/media/posts/8/IMG_9501.jpg" medium="image" />
             <category term="跨域實踐"/>
 
         <updated>2026-08-05T23:05:51+08:00</updated>
             <summary type="html">
                 <![CDATA[
+                        <img src="https://YUNCHUN1004.github.io/media/posts/8/IMG_9501.jpg" alt="" />
                     CLAB的作品
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
+                    <p><img src="https://YUNCHUN1004.github.io/media/posts/8/IMG_9501.jpg" class="type:primaryImage" alt="" /></p>
                 <p>CLAB的作品</p>
             ]]>
         </content>
@@ -113,16 +126,19 @@
         </author>
         <link href="https://YUNCHUN1004.github.io/tun-qu-yi-wen-zhong-xin-gong-zuo-fang.html"/>
         <id>https://YUNCHUN1004.github.io/tun-qu-yi-wen-zhong-xin-gong-zuo-fang.html</id>
+        <media:content url="https://YUNCHUN1004.github.io/media/posts/7/IMG_8378.jpg" medium="image" />
             <category term="跨域實踐"/>
 
         <updated>2026-08-05T23:04:58+08:00</updated>
             <summary type="html">
                 <![CDATA[
+                        <img src="https://YUNCHUN1004.github.io/media/posts/7/IMG_8378.jpg" alt="" />
                     hi
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
+                    <p><img src="https://YUNCHUN1004.github.io/media/posts/7/IMG_8378.jpg" class="type:primaryImage" alt="" /></p>
                 <p>hi</p>
             ]]>
         </content>
@@ -134,17 +150,20 @@
         </author>
         <link href="https://YUNCHUN1004.github.io/bi-zhan.html"/>
         <id>https://YUNCHUN1004.github.io/bi-zhan.html</id>
+        <media:content url="https://YUNCHUN1004.github.io/media/posts/6/IMG_6860.jpg" medium="image" />
             <category term="企劃/展覽執行"/>
             <category term="代表專案"/>
 
         <updated>2026-08-05T23:04:01+08:00</updated>
             <summary type="html">
                 <![CDATA[
+                        <img src="https://YUNCHUN1004.github.io/media/posts/6/IMG_6860.jpg" alt="" />
                     畢展的實作經驗與作品
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
+                    <p><img src="https://YUNCHUN1004.github.io/media/posts/6/IMG_6860.jpg" class="type:primaryImage" alt="" /></p>
                 <p>畢展的實作經驗與作品</p>
             ]]>
         </content>
@@ -156,17 +175,20 @@
         </author>
         <link href="https://YUNCHUN1004.github.io/xin-tie-wen.html"/>
         <id>https://YUNCHUN1004.github.io/xin-tie-wen.html</id>
+        <media:content url="https://YUNCHUN1004.github.io/media/posts/3/FD01414D-3C8A-40C7-823B-3666AEE02451_L0_001-2025_1_21-Xia-Wu-5_20_54.jpg" medium="image" />
             <category term="企劃/展覽執行"/>
             <category term="代表專案"/>
 
         <updated>2026-08-05T21:39:23+08:00</updated>
             <summary type="html">
                 <![CDATA[
+                        <img src="https://YUNCHUN1004.github.io/media/posts/3/FD01414D-3C8A-40C7-823B-3666AEE02451_L0_001-2025_1_21-Xia-Wu-5_20_54.jpg" alt="" />
                     你好!
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
+                    <p><img src="https://YUNCHUN1004.github.io/media/posts/3/FD01414D-3C8A-40C7-823B-3666AEE02451_L0_001-2025_1_21-Xia-Wu-5_20_54.jpg" class="type:primaryImage" alt="" /></p>
                 <p>你好!</p>
             ]]>
         </content>
@@ -178,18 +200,26 @@
         </author>
         <link href="https://YUNCHUN1004.github.io/test.html"/>
         <id>https://YUNCHUN1004.github.io/test.html</id>
+        <media:content url="https://YUNCHUN1004.github.io/media/posts/1/IMG_1498.jpg" medium="image" />
             <category term="企劃/展覽執行"/>
             <category term="代表專案"/>
 
         <updated>2026-08-05T20:28:08+08:00</updated>
             <summary type="html">
                 <![CDATA[
+                        <img src="https://YUNCHUN1004.github.io/media/posts/1/IMG_1498.jpg" alt="" />
                     teeeeeeeeeeeeeeeest
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
+                    <p><img src="https://YUNCHUN1004.github.io/media/posts/1/IMG_1498.jpg" class="type:primaryImage" alt="" /></p>
                 <p>teeeeeeeeeeeeeeeest</p>
+<p> </p>
+<p> </p>
+<p> </p>
+<p> </p>
+<figure class="post__image"><img loading="lazy"  src="https://i.postimg.cc/NMLZSWdp/IMG-1498.jpg" alt="" width="316" height="237" data-is-external-image="true"></figure>
             ]]>
         </content>
     </entry>
