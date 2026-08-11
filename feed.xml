@@ -3,7 +3,7 @@
     <title>LIN YUN CHUN</title>
     <link href="https://YUNCHUN1004.github.io/feed.xml" rel="self" />
     <link href="https://YUNCHUN1004.github.io" />
-    <updated>2026-08-11T20:11:22+08:00</updated>
+    <updated>2026-08-11T22:13:40+08:00</updated>
     <author>
         <name>yunchun</name>
     </author>
@@ -20,8 +20,22 @@
             <category term="跨域實踐"/>
 
         <updated>2026-08-05T23:08:06+08:00</updated>
-            <summary></summary>
-        <content></content>
+            <summary type="html">
+                <![CDATA[
+                        <img src="https://YUNCHUN1004.github.io/media/posts/12/IMG_2916.jpg" alt="" />
+                    ◆ 專案時間：2025.9 # _____________________________________________________________________________________ 負責內容： (pic)
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://YUNCHUN1004.github.io/media/posts/12/IMG_2916.jpg" class="type:primaryImage" alt="" /></p>
+                <p>◆ 專案時間：2025.9   <br>#</p>
+<p>_____________________________________________________________________________________</p>
+<p class="align-left">負責內容：</p>
+<p> </p>
+<p>(pic)</p>
+            ]]>
+        </content>
     </entry>
     <entry>
         <title>新竹X梅竹黑客松 </title>
@@ -37,13 +51,17 @@
             <summary type="html">
                 <![CDATA[
                         <img src="https://YUNCHUN1004.github.io/media/posts/11/IMG_4559.jpg" alt="" />
-                    行銷部
+                    ◆ 專案時間：2023.7 ~ 2023.10 ◆ 角色： # _____________________________________________________________________________________ 負責內容： (pic)
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
                     <p><img src="https://YUNCHUN1004.github.io/media/posts/11/IMG_4559.jpg" class="type:primaryImage" alt="" /></p>
-                <p>行銷部</p>
+                <p>◆ 專案時間：2023.7 ~ 2023.10     ◆ 角色：<br>#</p>
+<p>_____________________________________________________________________________________</p>
+<p class="align-left">負責內容：</p>
+<p> </p>
+<p>(pic)</p>
             ]]>
         </content>
     </entry>
@@ -61,13 +79,19 @@
             <summary type="html">
                 <![CDATA[
                         <img src="https://YUNCHUN1004.github.io/media/posts/10/DSC9604.jpg" alt="" />
-                    系展展覽部長壓
+                    ◆ 專案時間：2024.9 ~ 2024.10 ◆ 角色：展覽部長 # _____________________________________________________________________________________ 負責內容： (pic)
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
                     <p><img src="https://YUNCHUN1004.github.io/media/posts/10/DSC9604.jpg" class="type:primaryImage" alt="" /></p>
-                <p>系展展覽部長壓</p>
+                <p>◆ 專案時間：2024.9 ~ 2024.10     ◆ 角色：展覽部長<br>#</p>
+<p>_____________________________________________________________________________________</p>
+<p class="align-left">負責內容：</p>
+<ul>
+<li>123</li>
+</ul>
+<p class="align-left"><br>(pic)</p>
             ]]>
         </content>
     </entry>
@@ -93,13 +117,10 @@
                     <p><img src="https://YUNCHUN1004.github.io/media/posts/9/Ying-Mu-Xie-Qu-Hua-Mian-2024-11-25-211136.png" class="type:primaryImage" alt="" /></p>
                 <p>◆ 專案時間：2024.9 ~ 2025.1     ◆ 角色：<br>#</p>
 <p>_____________________________________________________________________________________</p>
-<p class="align-left">負責內容：</p>
+<p class="align-left"><strong>負責內容：</strong></p>
 <p> </p>
 <p>(pic)</p>
-<blockquote>
-<p>作品創作：<br>「 Eros In Errors 」；VR<br><span class="a_GcMg font-feature-liga-off font-feature-clig-off font-feature-calt-off text-decoration-none text-strikethrough-none">共同創作者：王俞方、高丞葳、黎姵妤</span></p>
-</blockquote>
-<p class="cvGsUA block-font-kerning-none block-font-feature-liga-off block-font-feature-clig-off block-font-feature-calt-off direction-ltr align-justify para-style-body"><span class="a_GcMg font-feature-liga-off font-feature-clig-off font-feature-calt-off text-decoration-none text-strikethrough-none">本作品以愛神 Eros 的視角展開，將祂從傳統神話中的行動者轉化為現代愛情的旁觀者，探討在這個速食關係與高度數位化的時代，愛是否變成形式化的交換及產物？愛又是甚麼<br></span><span style="font-size: inherit;">創作形式以 VR Comic 呈現，結合虛擬實境與漫畫敘事的創作方式，觀眾能在沉浸式的環境中被引導思索愛情的多樣與錯位。</span></p>
+<p><strong>作品創作：</strong><br>「 Eros In Errors 」；VR<br><span class="a_GcMg font-feature-liga-off font-feature-clig-off font-feature-calt-off text-decoration-none text-strikethrough-none">共同創作者：王俞方、高丞葳、黎姵妤<br>——<br></span><span class="a_GcMg font-feature-liga-off font-feature-clig-off font-feature-calt-off text-decoration-none text-strikethrough-none">本作品以愛神 Eros 的視角展開，將祂從傳統神話中的行動者轉化為現代愛情的旁觀者，探討在這個速食關係與高度數位化的時代，愛是否變成形式化的交換及產物？愛又是甚麼<br></span><span style="font-size: inherit;">創作形式以 VR Comic 呈現，結合虛擬實境與漫畫敘事的創作方式，觀眾能在沉浸式的環境中被引導思索愛情的多樣與錯位。</span></p>
 <div class="post__iframe"><iframe loading="lazy" width="560" height="315" src="https://www.youtube.com/embed/8VvzER6p_Do" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen="allowfullscreen">
   </iframe></div>
             ]]>
@@ -119,13 +140,20 @@
             <summary type="html">
                 <![CDATA[
                         <img src="https://YUNCHUN1004.github.io/media/posts/8/IMG_9501.jpg" alt="" />
-                    CLAB的作品
+                    ◆ 專案時間：2024.10 ~ 2024.12 ◆ 角色： # _____________________________________________________________________________________ 負責內容： (pic) 作品創作： 「&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
                     <p><img src="https://YUNCHUN1004.github.io/media/posts/8/IMG_9501.jpg" class="type:primaryImage" alt="" /></p>
-                <p>CLAB的作品</p>
+                <p>◆ 專案時間：2024.10 ~ 2024.12     ◆ 角色：<br>#</p>
+<p>_____________________________________________________________________________________</p>
+<p class="align-left">負責內容：</p>
+<p> </p>
+<p>(pic)</p>
+<p>作品創作：<br>「 overloaded 」；<br><span class="a_GcMg font-feature-liga-off font-feature-clig-off font-feature-calt-off text-decoration-none text-strikethrough-none">共同創作者：林俊遑、黃紀虹、詹登凱、陳懿、蔡承嶧、戴婕茵</span></p>
+<p class="cvGsUA block-font-kerning-none block-font-feature-liga-off block-font-feature-clig-off block-font-feature-calt-off direction-ltr align-justify para-style-body"><span class="a_GcMg font-feature-liga-off font-feature-clig-off font-feature-calt-off text-decoration-none text-strikethrough-none">過度製造是現今社會的問題之一，看似只是簡單的環保議題，然而非物質層面上也存在過度製造的問題。<br></span><span class="a_GcMg font-feature-liga-off font-feature-clig-off font-feature-calt-off text-decoration-none text-strikethrough-none">人們常有意識的為某事物賦予解釋，但或許真實相對單純；又或者無意識的被誘因吸引產生無意義的行為，進而讓自己陷入危機或徒增干擾。<br></span><span class="a_GcMg font-feature-liga-off font-feature-clig-off font-feature-calt-off text-decoration-none text-strikethrough-none">不論出於刻意或是無意，我們經常造成過度製造概念、行為、慾望等結果，因此希望透過與作品的互動，使觀眾能意識到此議題的存在。</span></p>
+<p> </p>
             ]]>
         </content>
     </entry>
@@ -143,13 +171,17 @@
             <summary type="html">
                 <![CDATA[
                         <img src="https://YUNCHUN1004.github.io/media/posts/7/IMG_8378.jpg" alt="" />
-                    hi
+                    ◆ 專案時間：2024.7 ~ 2024.8 ◆ 角色： # _____________________________________________________________________________________ 負責內容： (pic)
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
                     <p><img src="https://YUNCHUN1004.github.io/media/posts/7/IMG_8378.jpg" class="type:primaryImage" alt="" /></p>
-                <p>hi</p>
+                <p>◆ 專案時間：2024.7 ~ 2024.8     ◆ 角色：<br>#</p>
+<p>_____________________________________________________________________________________</p>
+<p class="align-left">負責內容：</p>
+<p> </p>
+<p>(pic)</p>
             ]]>
         </content>
     </entry>
@@ -168,13 +200,13 @@
             <summary type="html">
                 <![CDATA[
                         <img src="https://YUNCHUN1004.github.io/media/posts/6/IMG_6860.jpg" alt="" />
-                    ◆ 專案時間：2025.7 ~ 2026.5 ◆ 角色：展覽部長、創作者 # _____________________________________________________________________________________ 負責內容： (pic) 作品創作： 「Under&hellip;
+                    ◆ 專案時間：2025.7 ~ 2026.5 ◆ 角色：展覽部長、創作者 #專案執行 # 時程控管 #問題與風險處理 #利害關係人協調 _____________________________________________________________________________________&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
                     <p><img src="https://YUNCHUN1004.github.io/media/posts/6/IMG_6860.jpg" class="type:primaryImage" alt="" /></p>
-                <p>◆ 專案時間：2025.7 ~ 2026.5     ◆ 角色：展覽部長、創作者<br>#</p>
+                <p>◆ 專案時間：2025.7 ~ 2026.5     ◆ 角色：展覽部長、創作者<br><span style="color: #7e8c8d;">#專案執行 # 時程控管 #問題與風險處理 #利害關係人協調</span></p>
 <p>_____________________________________________________________________________________</p>
 <p class="align-left">負責內容：</p>
 <ul>
@@ -186,16 +218,15 @@
 </ul>
 <p class="align-left"><br>(pic)<br><br></p>
 <p> </p>
-<blockquote>
-<p>作品創作：<br>「Under Erasure」/ 動力裝置；3*6m</p>
-</blockquote>
+<p><strong>作品創作：</strong><br>「Under Erasure」/ 動力裝置；3*6m</p>
 <p>惱人的記憶如同噪音，在意識深處反覆迴盪，越試圖遺忘，反而越清晰地浮現。本作品以規律卻無法停止的機械裝置，轉譯人們面對記憶時的矛盾與焦躁。多組機械不規則運轉，發出持續干擾的聲響，筆尖來回擺動，在表面留下層層疊加的痕跡。這些視覺與聽覺上的壓迫，象徵人為抹除記憶的努力，最終卻使記億更加厚重、難以忽視，成為潛意識中無法停止的書寫。</p>
+<p> </p>
 <p> </p>
             ]]>
         </content>
     </entry>
     <entry>
-        <title>月津港</title>
+        <title>月津港燈節</title>
         <author>
             <name>yunchun</name>
         </author>
@@ -209,7 +240,7 @@
             <summary type="html">
                 <![CDATA[
                         <img src="https://YUNCHUN1004.github.io/media/posts/3/FD01414D-3C8A-40C7-823B-3666AEE02451_L0_001-2025_1_21-Xia-Wu-5_20_54.jpg" alt="" />
-                    ◆ 專案時間：2025.12 ~ 2026.1 ◆ 角色：創作者 # _____________________________________________________________________________________ 負責內容： (pic) 作品創作： 「&hellip;
+                    ◆ 專案時間：2025.12 ~ 2026.1 ◆ 角色：創作者 # _____________________________________________________________________________________ 負責內容 作品創作： 「 900MHz&hellip;
                 ]]>
             </summary>
         <content type="html">
@@ -217,12 +248,24 @@
                     <p><img src="https://YUNCHUN1004.github.io/media/posts/3/FD01414D-3C8A-40C7-823B-3666AEE02451_L0_001-2025_1_21-Xia-Wu-5_20_54.jpg" class="type:primaryImage" alt="" /></p>
                 <p>◆ 專案時間：2025.12 ~ 2026.1     ◆ 角色：創作者<br>#</p>
 <p>_____________________________________________________________________________________</p>
-<p class="align-left">負責內容：</p>
+<p><strong>負責內容</strong></p>
+<ul>
+<li>撰寫徵件企畫書通過初、複選評選，作品獲選於 2025 台南月津港燈節展出。</li>
+<li>負責燈箱設計與製作，兼顧造型、防水結構、電路配置及測試，與5位同學花1個月的時間完成 98 組燈箱製作。</li>
+<li>參與作品布展與現場執行，與團隊共7人合作完成作品安裝、調整及展場建置，確保展覽順利展出。<br><br></li>
+<li>完成大型展覽作品製作與展出，累積提案、設計、製作及展覽執行的完整專案經驗。</li>
+<li>在兼顧多項專案與課業的情況下，如期完成大規模製作與展覽執行。</li>
+<li>展出期間獲得民眾自發分享與討論，專案社群（Instagram、Threads）單篇貼文觸及約 3,000 人次。</li>
+</ul>
 <p> </p>
-<p>(pic)</p>
-<blockquote>
+<figure class="post__image post__image--left"><img loading="lazy"  src="https://i.postimg.cc/SxTM1HPm/5B69500B-7CE6-4B21-AEEA-72C57A2597C6-L0-001-2024-12-12-xia-wu4-10-04.jpg" alt="" width="255" height="340" data-is-external-image="true"></figure>
+<p> </p>
+<p> </p>
+<p> </p>
+<p> </p>
+<p> </p>
+<p> </p>
 <p>作品創作：<br>「 900MHz 」；裝置作品<br><span class="a_GcMg font-feature-liga-off font-feature-clig-off font-feature-calt-off text-decoration-none text-strikethrough-none">共同創作者：林俊遑、黃紀虹、陳苡瑄、陳懿、蔡承嶧、戴婕茵</span></p>
-</blockquote>
 <p class="cvGsUA block-font-kerning-none block-font-feature-liga-off block-font-feature-clig-off block-font-feature-calt-off direction-ltr align-justify para-style-body"><span class="a_GcMg font-feature-liga-off font-feature-clig-off font-feature-calt-off text-decoration-none text-strikethrough-none">還記得用BB call 的年代嗎?<br></span><span class="a_GcMg font-feature-liga-off font-feature-clig-off font-feature-calt-off text-decoration-none text-strikethrough-none">那時人們人手一台Call機，以900MHz頻率聯繫彼此，螢幕上的數字不僅能傳遞簡單訊息，也創造出特有的傳訊文化。<br></span><span class="a_GcMg font-feature-liga-off font-feature-clig-off font-feature-calt-off text-decoration-none text-strikethrough-none">如今人與人的聯繫變得更便捷，卻少了當初的珍貴。我們希望能透過此作品帶您回到1990年代，重拾數字傳情的溫馨回憶。<br></span><span style="font-size: inherit;">螢幕上的數字閃爍著，邀請您透過有趣的諧音密碼，重溫傳訊的感動。</span></p>
 <p> </p>
 <p> </p>
@@ -244,20 +287,28 @@
             <summary type="html">
                 <![CDATA[
                         <img src="https://YUNCHUN1004.github.io/media/posts/1/IMG_1498.jpg" alt="" />
-                    ◆ 專案時間：2025.7 ~ 2026.9 ◆ 角色：創作者 # _____________________________________________________________________________________ 負責內容： (pic) 作品創作： 「&hellip;
+                    ◆ 專案時間：2025.7 ~ 2026.9 # _____________________________________________________________________________________ 負責內容： 作品創作： 「 ! heard,!seen,!done 」；互動裝置&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
                     <p><img src="https://YUNCHUN1004.github.io/media/posts/1/IMG_1498.jpg" class="type:primaryImage" alt="" /></p>
-                <p>◆ 專案時間：2025.7 ~ 2026.9     ◆ 角色：創作者<br>#</p>
+                <p>◆ 專案時間：2025.7 ~ 2026.9    <br>#</p>
 <p>_____________________________________________________________________________________</p>
 <p class="align-left">負責內容：</p>
+<ul>
+<li>參與作品概念發想、互動流程討論及整體製作，累積一件專案從提案、開發到展覽執行的完整經驗。</li>
+<li>與團隊共4人一起完成互動裝置之規劃與製作，負責馬達控制、介面設計及系統整合。</li>
+<li>赴奧地利參與作品運輸、布展、測試及展覽期間顧展，確保作品穩定運作並協助排除現場問題。</li>
+<li> </li>
+</ul>
 <p> </p>
-<p>(pic)</p>
-<blockquote>
-<p>作品創作：<br>「  ! heard,!seen,!done 」；互動裝置<br><span class="a_GcMg font-feature-liga-off font-feature-clig-off font-feature-calt-off text-decoration-none text-strikethrough-none">共同創作者：林俊遑、黃紀虹、戴婕茵</span></p>
-</blockquote>
+<figure class="post__image post__image--left"><img  src="https://i.postimg.cc/TwB52Gcr/IMG-3132.jpg" alt="" width="161" height="242" data-is-external-image="true"></figure><figure class="post__image"><img loading="lazy"  src="https://i.postimg.cc/nLzJdmtb/IMG-2584.avif" alt="" width="319" height="240" data-is-external-image="true"></figure>
+<figure class="post__image"><img loading="lazy"  src="https://i.postimg.cc/TYYC5JjR/IMG-3240.jpg" alt="" width="331" height="188" data-is-external-image="true"></figure>
+<p> </p>
+<p> </p>
+<p> </p>
+<p><strong>作品創作：</strong><br>「  ! heard,!seen,!done 」；互動裝置<br><span class="a_GcMg font-feature-liga-off font-feature-clig-off font-feature-calt-off text-decoration-none text-strikethrough-none">共同創作者：林俊遑、黃紀虹、戴婕茵</span></p>
 <p class="cvGsUA block-font-kerning-none block-font-feature-liga-off block-font-feature-clig-off block-font-feature-calt-off direction-ltr align-justify para-style-body"><span class="a_GcMg font-feature-liga-off font-feature-clig-off font-feature-calt-off text-decoration-none text-strikethrough-none">人的聽覺是無法關閉的。然而當人們逐漸習慣聲音的無處不在，有些日常的細小噪音漸漸被忽略，消失於意識之外。<br></span><span style="font-size: inherit;">被忽略的不僅僅是瑣碎的噪音。在台灣，每天平均有超過十架外國軍機掠過領空，轟鳴的引擎聲與呼嘯而過的聲響，彷彿早已被收錄為台灣背景噪音的一部分，人民忽略、習慣、將此成為日常。<br></span><span class="a_GcMg font-feature-liga-off font-feature-clig-off font-feature-calt-off text-decoration-none text-strikethrough-none">生活在這片天空下的我們，或許正在選擇性忽略某些正在發生的現實，最終失去了對環境的敏感度，同時失去對危機的警戒心。</span></p>
 <p> </p>
 <p> </p>
